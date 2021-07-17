@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeot
+- 👋 Hi, I’m Shamim, @jeot
 - 👀 I’m interested in C++/JS/VHDL/DigitalSystems/ARM/FPGA
 - 🌱 I’m currently learning to build a WiFi embedded module
 - 💞️ I’m looking to collaborate on interesting stuff!

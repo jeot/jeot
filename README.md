@@ -1,3 +1,4 @@
+👋 Hi, I’m Shamim
 ```
 # no username was found!
 # let's create one...
@@ -9,7 +10,7 @@ for wordLen in range(3,5):
       word += chr(random.randint(97,122))
     print(word) # the "jeot" was selected!
 ```
-- 👋 Hi, I’m Shamim, @jeot
+- 🤩 Now I have a username, @jeot
 - 👀 I’m interested in C++/JS/VHDL/DigitalSystems/ARM/FPGA
 - 🌱 I’m currently learning to build a WiFi embedded module
 - 💞️ I’m looking to collaborate on interesting stuff!

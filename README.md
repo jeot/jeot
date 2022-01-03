@@ -1,13 +1,14 @@
-# no user name was found!
+```
+# no username was found!
 # let's create one...
 import random
 for wordLen in range(3,5):
-	for x in range(7): # cause i like 7
-		word = "";
-		for ci in range(wordLen):
-			word += chr(random.randint(97,122))
-		print(word) # the "jeot" was selected!
-    
+  for x in range(7): # cause i like 7
+    word = "";
+    for ci in range(wordLen):
+      word += chr(random.randint(97,122))
+    print(word) # the "jeot" was selected!
+```
 - 👋 Hi, I’m Shamim, @jeot
 - 👀 I’m interested in C++/JS/VHDL/DigitalSystems/ARM/FPGA
 - 🌱 I’m currently learning to build a WiFi embedded module

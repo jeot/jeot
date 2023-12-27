@@ -1,4 +1,4 @@
-👋 Hi, I’m Shamim
+👋 Hi, this is Shamim
 ```
 # no username was found!
 # let's create one...
@@ -11,9 +11,9 @@ for wordLen in range(3,5):
     print(word) # the "jeot" was selected!
 ```
 - 🤩 Now I have a username, @jeot
-- 👀 I’m interested in C++/JS/VHDL/DigitalSystems/ARM/FPGA
-- 🌱 I’m currently learning to build a WiFi embedded module
-- 💞️ I’m looking to collaborate on interesting stuff!
+- 👀 Interested in Embedded System Design/ARM Programming/C/C++/rust/JS/VHDL/FPGA/PCB Desgin
+- 🌱 I’m currently learning rust, building a secure bootloader for STM32L4xx, and secure remote update 
+- 💞️ Looking forward to interesting stuff!
 - 📫 How to reach me? sh.keshani@gmail.com
 
 <!---
